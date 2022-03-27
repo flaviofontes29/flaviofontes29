@@ -12,9 +12,9 @@
   <img align="center" alt="Flavio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<img height="30" width="40" alt="sql-Server" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 
-  <img align="right" alt="Homer " heigth = "30" width = "40" src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif">
+  <img align="right" alt="Homer " heigth = "148" width = "128" src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif">
 
 </div>
 
