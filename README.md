@@ -16,8 +16,8 @@
 
 <img height="30" width="40" alt="Selenium" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 
-
-<img height="30" width="40" alt="Django" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+<img height="30" width="40" alt="Django" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+          
           
           
 
